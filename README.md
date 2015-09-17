@@ -152,3 +152,5 @@ Go back to the command prompt and see that the full object has been shown.
 ![ScreenShot](https://github.com/NodeREDWatson/Watson-Node-Red-Samples/blob/master/images/Personality%20Insights/Command%20Prompt%20-%20cf%20%20logs%20WNRPI.png)
 
 Compare the items in the JSON object to those of the demo for Message Insights - you can see that the values shown are the same (or very similar).
+
+##Speech to Text
