@@ -294,3 +294,7 @@ The nodes required to build this flow are:
 To run the web page, point your browser to  `/http://xxxx.mybluemix.net/reco` and enter the URL of some  image. The URL of the listed images can be copied to clipboard and pasted into the text field.
 
 The complete flow is available at [Reco-Lab-WebPage](flows/reco/Reco-Lab-WebPage.json).
+
+##Speech To Text
+
+The Speech to Text service converts the human voice into the written word. It can be used anywhere there is a need to bridge the gap between the spoken word and their written form, including voice control of embedded systems, transcription of meetings and conference calls, and dictation of email and notes. This easy-to-use service uses machine intelligence to combine information about grammar and language structure with knowledge of the composition of the audio signal to generate an accurate transcription. 
